@@ -16,5 +16,5 @@ In order to be able to access the file (locally), there are at least two possibl
 1. Simply upload the `.ipynb` file to Google Drive, and access it with [Google Colab](https://colab.research.google.com/) 
 2. You'll need Jupyter notebook to read, execute, and modify the content. [Read more here](https://jupyter.org/install).
 
-##Contacts
+## Contacts
 I am open for feedbacks and suggestions! You can reach me out at hi@jonathan.web.id 
